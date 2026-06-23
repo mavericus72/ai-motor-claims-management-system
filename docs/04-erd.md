@@ -15,7 +15,7 @@ erDiagram
 
     CLAIMS ||--|| DAMAGE_ASSESSMENTS : generates
 
-    CLAIMS ||--|| COST/REPAIR_ESTIMATES : generates
+    CLAIMS ||--|| REPAIR_ESTIMATES : generates
 
     CLAIMS ||--|| SETTLEMENTS : generates
 ```
