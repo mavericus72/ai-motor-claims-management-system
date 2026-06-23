@@ -1,5 +1,7 @@
 # Claim Lifecycle
 
+## States
+
 ```text
 DRAFT
   ↓
