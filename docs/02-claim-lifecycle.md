@@ -4,59 +4,45 @@
 
 DRAFT
   │
-  ▼
 
 SUBMITTED
   │
-  ▼
 
 DOCUMENT_PENDING
   │
-  ▼
 
 INSPECTION_PENDING
   │
-  ▼
 
 UNDER_REVIEW
   │
-  ▼
 
 AI_ASSESSMENT_COMPLETE
   │
-  ▼
 
 KEPT_OPEN
   │
-  ▼
 
 AI_KEPT_OPEN_ASSESSMENT_COMPLETE
   │
-  ▼
 
 UNDER_REPAIR_PHOTOS
   │
-  ▼
 
 REINSPECTION_PHOTOS
   │
-  ▼
 
 SETTLEMENT_PENDING
   │
-  ▼
 
 APPROVED
   │
-  ▼
 
 LIABILITY_CALCULATION
   │
-  ▼
 
 CLAIM_SETTLEMENT
   │
-  ▼
 
 CLOSED
 
@@ -66,11 +52,9 @@ OR
 
 REJECTED
   │
-  ▼
 
 REJECTION_REASON
   │
-  ▼
 
 CLOSED
 
